@@ -52,8 +52,6 @@ Ensure both are running simultaneously in separate terminal windows to allow the
 ## Deployment
 The project includes deployment configuration for platforms like Heroku. Ensure the `Procfile` and `runtime.txt` are correctly set up.
 
-## License
-This project is licensed under the MIT License.
 
 ## Contributors
 - Nibedita Mohanty (@Nibedita-1)
